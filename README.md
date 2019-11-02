@@ -27,5 +27,9 @@
 
 14.[simple python framework](https://mattscodecave.com/posts/simple-python-framework-from-scratch.html)
 
-15.[]
+15.[ Build your own x](https://github.com/danistefanovic/build-your-own-x)
+
+16.[Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part2/)
+
+
 
