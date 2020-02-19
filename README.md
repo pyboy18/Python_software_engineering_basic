@@ -37,4 +37,4 @@
 
 19.[Gsoc Organisation](http://www.scorelab.org/gsoc-2019/)
 
-
+20. [Modern Django Project Examples](https://dev.to/omenapps/modern-django-project-examples-58mm)
