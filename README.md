@@ -38,3 +38,21 @@
 19.[Gsoc Organisation](http://www.scorelab.org/gsoc-2019/)
 
 20. [Modern Django Project Examples](https://dev.to/omenapps/modern-django-project-examples-58mm)
+
+21. [online judging server] (https://awesomeopensource.com/projects/online-judge)
+
+22. [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+
+23. [Professional Programming](https://awesomeopensource.com/project/charlax/professional-programming#algorithm-and-data-structures)
+
+24. [Awesome Open Source] (https://awesomeopensource.com/projects)
+
+25. [DMOJ online-judge](https://awesomeopensource.com/project/DMOJ/online-judge)
+
+26. [DMOJ] (https://github.com/DMOJ/online-judge)
+
+27. [Free, robust and scalable open-source online code execution system.](https://awesomeopensource.com/project/judge0/api)
+
+28.[online jufge lpoj](https://awesomeopensource.com/project/Linzecong/LPOJ)
+
+29. [A curated list of awesome Django apps, projects and resources](https://github.com/ad-m/awesome-django)
