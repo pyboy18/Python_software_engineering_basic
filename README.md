@@ -39,17 +39,17 @@
 
 20. [Modern Django Project Examples](https://dev.to/omenapps/modern-django-project-examples-58mm)
 
-21. [online judging server] (https://awesomeopensource.com/projects/online-judge)
+21. [online judging server](https://awesomeopensource.com/projects/online-judge)
 
 22. [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
 
 23. [Professional Programming](https://awesomeopensource.com/project/charlax/professional-programming#algorithm-and-data-structures)
 
-24. [Awesome Open Source] (https://awesomeopensource.com/projects)
+24. [Awesome Open Source](https://awesomeopensource.com/projects)
 
 25. [DMOJ online-judge](https://awesomeopensource.com/project/DMOJ/online-judge)
 
-26. [DMOJ] (https://github.com/DMOJ/online-judge)
+26. [DMOJ](https://github.com/DMOJ/online-judge)
 
 27. [Free, robust and scalable open-source online code execution system.](https://awesomeopensource.com/project/judge0/api)
 
@@ -59,6 +59,6 @@
 
 30  [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
 
-31. [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+31. [Algorithms and data structures implemented in JavaScript with explanations and links to further readings(https://github.com/trekhleb/javascript-algorithms)
 
 32. [A Collection of Free & Open Resources for University Coursework in Computer Science. ](https://github.com/acmbpdc/openlib.cs)
