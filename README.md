@@ -58,3 +58,7 @@
 29. [A curated list of awesome Django apps, projects and resources](https://github.com/ad-m/awesome-django)
 
 30  [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
+
+31. [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+
+32. [A Collection of Free & Open Resources for University Coursework in Computer Science. ](https://github.com/acmbpdc/openlib.cs)
